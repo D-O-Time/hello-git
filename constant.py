@@ -1,3 +1,3 @@
-AUTHOR = 'Ars'
+AUTHOR = 'Arssss'
 
 YEAR = 2024
