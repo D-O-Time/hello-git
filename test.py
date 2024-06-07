@@ -2,7 +2,7 @@ import os
 
 
 def test():
-    pass
+    print('test finished!')
 
 
 if __name__ == '__main__':
