@@ -1,7 +1,9 @@
 import os
+from constant import YEAR
 
 
 def test():
+    print(f'{YEAR=}')
     print('test finished!')
 
 
